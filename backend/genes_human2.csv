@@ -1,0 +1,5 @@
+Ensembl;Gene symbol;Name;Biotype;Chromosome;Seq region start;Seq region end
+ENSG00000250577;;;Linc R N A;4;138923930;138924232
+ENSG00000171657;GPR82;"G protein-coupled receptor 82 [Source:HGNC Symbol;Acc:HGNC:4533]";Protein Coding;X;41724155;41730135
+ENSG00000249877;;;Linc R N A;4;189288677;189291336
+ENSG00000181656;GPR88;"G protein-coupled receptor 88 [Source:HGNC Symbol;Acc:HGNC:4539]";Protein Coding;1;100538137;100542018
