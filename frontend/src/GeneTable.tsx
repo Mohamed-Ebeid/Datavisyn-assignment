@@ -58,6 +58,7 @@ const GeneTable: React.FC = () => {
 
   const handleResetClick = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
+    setName('');
     setPage(1);
     setLoading(true);
   };
@@ -70,7 +71,6 @@ const GeneTable: React.FC = () => {
 
   const handleSearch = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
-    print;
     setLoading(true);
   };
 
